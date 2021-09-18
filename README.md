@@ -12,7 +12,7 @@
   <br>
   <br>
   
-  ## Featured Repository
+  <h1 align='center'> Featured Repository </h1>
   <h2 align="center"> DEVKING </h2>
   <p align="center">
  <a href = 'https://github.com/vijeshvs/devking' > <img width = '110px' height = '100px' src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1627137986/vewmodttwyqiz1bp9jgw.png" align= 'center' /></a>
