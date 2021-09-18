@@ -9,14 +9,19 @@
   <p align="left"🌎 Eat Sleep Code Repeat </p> 
   <br>
   <br>
-  <br>
-  <br>
   
+  ## Featured Repository
+  <h2 align="center"> DEVKING </h2>
+  <p align="center">
+ <a href = 'https://github.com/vijeshvs/devking' > <img width = '110px' height = '100px' src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1627137986/vewmodttwyqiz1bp9jgw.png" align= 'center' /></a>
+     <h3><p align="center">A Simple Discord Bot built for beginners. Simple to use. Easy to setup </p>
+  
+</p>
   
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.twitter.com/vijeshsshetty' > <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" align= 'center' /></a> 
-<a href = 'https://www.github.com/vijeshvs'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" align= 'center' /></a> 
+<a href = 'https://www.twitter.com/vijeshsshetty' > <img width = '50px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" align= 'center' /></a> 
+<a href = 'https://www.github.com/vijeshvs'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" align= 'center' /></a> 
 
 
 ## My Stats :) 
