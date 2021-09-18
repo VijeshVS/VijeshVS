@@ -5,7 +5,9 @@
 
    <p align="left"> My name is Vijesh Shetty. Thank You for taking the time to view my GitHub Profile :smile: </p>
   <p align="left">⚡️  I'm curently studying in 11th class </p>
+  <p align="left">⚡️  Jee Aspirant </p>
   <p align="left">⚡️  In :heart: with Coding</p>
+  
   <p align="left"🌎 Eat Sleep Code Repeat </p> 
   <br>
   <br>
