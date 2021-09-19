@@ -20,8 +20,7 @@
   
 </p>
  
-<h2 align='left' > Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.twitter.com/vijeshsshetty'  > <img width = '50px'src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"   /></a> 
+
 
 <br/>
 <br>
@@ -29,6 +28,22 @@
 [![Vijesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vijeshvs&theme=rogue)](https://github.com/vijeshvs)
 <br>
 
+## Connect with Me 🤝🏻
+<div align="center">
+<a href="https://github.com/vijeshvs" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/vijeshsshetty" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://bit.ly/vijeshshetty_yt" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:vijeshsshetty@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<br>
 ## My Stats :) 
 
 <table><tr><td valign="top" width="50%">
