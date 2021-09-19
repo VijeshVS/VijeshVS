@@ -20,10 +20,11 @@
   
 </p>
  
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.twitter.com/vijeshsshetty' > <img width = '50px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" align='center' /></a> 
+<h2 align='left' > Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.twitter.com/vijeshsshetty'  > <img width = '50px'src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"   /></a> 
 
 <br/>
+<br>
 
 [![Vijesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vijeshvs&theme=rogue)](https://github.com/vijeshvs)
 <br>
