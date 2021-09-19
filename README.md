@@ -19,11 +19,9 @@
      <h3><p align="center">A Simple Discord Bot built for beginners. Simple to use. Easy to setup </p>
   
 </p>
-  
-
+ 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.twitter.com/vijeshsshetty' > <img width = '50px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" align= 'center' /></a> 
-<a href = 'https://www.github.com/vijeshvs'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" align= 'center' /></a> 
+<a href = 'https://www.twitter.com/vijeshsshetty' > <img width = '50px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" align='center' /></a> 
 
 
 ## My Stats :) 
@@ -33,6 +31,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vijeshvs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
+   
+   <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeshvs&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
