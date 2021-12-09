@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello There !!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align="center"> Welcome to my github profile </h1>
 <p align='center'>
    
    <p align='center'> <img src="https://user-images.githubusercontent.com/65854432/131634214-91274d8f-4f2f-4a91-bee8-276f5c3069eb.gif"> </p>
