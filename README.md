@@ -2,9 +2,11 @@
 
 <h1 align="center"> Hello There !!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
+   
+   <p align='center'> <img src="https://user-images.githubusercontent.com/65854432/131634214-91274d8f-4f2f-4a91-bee8-276f5c3069eb.gif"> </p>
 
-   <p align="left"> My name is Vijesh Shetty. Thank You for taking the time to view my GitHub Profile :smile: </p>
-   <p align="right"> <img src="https://user-images.githubusercontent.com/65854432/131634214-91274d8f-4f2f-4a91-bee8-276f5c3069eb.gif"> </p>
+   <p align="left"> My name is Vijesh Shetty. Thank You for taking the time to view my GitHub Profile :smile:  </p>
+ 
   <p align="left">⚡️  I'm curently studying in 11th class </p>
   <p align="left">⚡️  Jee Aspirant </p>
   <p align="left">⚡️  In :heart: with Coding</p>
