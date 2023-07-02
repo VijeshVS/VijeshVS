@@ -8,7 +8,7 @@
    <p align="left"> My name is Vijesh Shetty. Thank You for taking the time to view my GitHub Profile :smile:  </p>
  
   <p align="left">⚡️  Learnings Things </p>
-  <p align="left">⚡️  JS & C++  </p>
+  <p align="left">⚡️  Python </p>
   <p align="left">⚡️  In :heart: with Coding</p>
   
   <p align="left"🌎 Eat Sleep Code Repeat </p> 
@@ -28,8 +28,7 @@
 <br/>
 <br>
 
-[![Vijesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vijeshvs&theme=rogue)](https://github.com/vijeshvs)
-<br>
+
 
 ## Connect with Me 🤝🏻
 <div align="center">
