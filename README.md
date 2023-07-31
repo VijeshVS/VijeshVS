@@ -1,65 +1,34 @@
 
 
-<h1 align="center"> Welcome to my github profile </h1>
-<p align='center'>
+  <h1 align="center">Hi 👋, I'm Vijesh</h1>
+<h3 align="center">A Student</h3>
    
    <p align='center'> <img src="https://user-images.githubusercontent.com/65854432/131634214-91274d8f-4f2f-4a91-bee8-276f5c3069eb.gif"> </p>
 
-   <p align="left"> My name is Vijesh Shetty. Thank You for taking the time to view my GitHub Profile :smile:  </p>
- 
-  <p align="left">⚡️  Learnings Things </p>
-  <p align="left">⚡️  Python </p>
-  <p align="left">⚡️  In :heart: with Coding</p>
-  
-  <p align="left"🌎 Eat Sleep Code Repeat </p> 
-  <br>
-  <br>
-  
-  <h1 align='center'> Featured Repository </h1>
-  <h2 align="center"> DEVKING </h2>
-  <p align="center">
- <a href = 'https://github.com/vijeshvs/devking' > <img width = '110px' height = '100px' src="https://res.cloudinary.com/vigneshshettyin/image/upload/v1627137986/vewmodttwyqiz1bp9jgw.png" align= 'center' /></a>
-     <h3><p align="center">A Simple Discord Bot built for beginners. Simple to use. Easy to setup </p>
-  
+
+
+- 🌱 I’m currently learning **Flask , Django**
+
+- 🤝 I’m looking for help with **DSA**
+
+- 💬 Ask me about **Flask**
+
+- 📫 How to reach me **vijeshsshetty@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/vijeshsshetty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijeshsshetty_" height="30" width="40" /></a>
 </p>
- 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br/>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijeshvs&show_icons=true&locale=en&layout=compact" alt="vijeshvs" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijeshvs&show_icons=true&locale=en" alt="vijeshvs" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijeshvs&" alt="vijeshvs" /></p>
 
-## Connect with Me 🤝🏻
-<div align="center">
-<a href="https://github.com/vijeshvs" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/vijeshsshetty" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://bit.ly/vijeshshetty_yt" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:vijeshsshetty@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br>
-
-## My Stats :) 
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vijeshvs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-   
-   <br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeshvs&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
 
 
 <br/>
