@@ -72,7 +72,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijeshvs&show_icons=true&locale=en" alt="vijeshvs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijeshvs&" alt="vijeshvs" /></p>
 
 
 <br/>
