@@ -51,6 +51,12 @@
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>C++
+    </td>
    <td align="center" width="96">
       <a href="#">
         <img src="https://assets.cdn.prod.twilio.com/original_images/flask-oauth.png" width="54" height="48" alt="Flask" />
