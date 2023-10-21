@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Flask , Django**
+- 🌱 I’m currently exploring **Web development**
 
 - 🤝 I’m looking for help with **DSA**
 
