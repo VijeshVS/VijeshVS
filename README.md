@@ -7,11 +7,9 @@
 
 
 
-- 🌱 I’m currently exploring **Web development**
+- 🌱 I’m currently exploring **Android development**
 
 - 🤝 I’m looking for help with **DSA**
-
-- 💬 Ask me about **Flask**
 
 - 📫 How to reach me **vijeshsshetty@gmail.com**
 
@@ -29,6 +27,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a>
     <br/>HTML5
+   </td>
+       <td align="center" width="96">
+     <a href="#" target="_blank">
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="html5" width="40" height="40"/> 
+    </a>
+    <br/>Java
    </td>
    <td align="center" width="96">
     <a href="#" target="_blank"> 
