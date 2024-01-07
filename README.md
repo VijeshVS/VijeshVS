@@ -72,6 +72,12 @@
       </a>
       <br>Bootstrap
     </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Android Studio
+    </td>
     </tr>
     
 </table>
