@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently exploring **Android development**
+- 🌱 MERN Stack Developer
 
-- 🤝 I’m looking for help with **DSA**
+- 🤝 DSA 
 
 - 📫 How to reach me **vijeshsshetty@gmail.com**
 
@@ -78,6 +78,25 @@
       </a>
       <br>Android Studio
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>JS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>NodeJS
+    </td>
+    
     </tr>
     
 </table>
