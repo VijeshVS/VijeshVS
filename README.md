@@ -7,9 +7,7 @@
 
 
 
-- 🌱 MERN Stack Developer
-
-- 🤝 DSA 
+- 🌱 MERN Stack Developer (Beginner)
 
 - 📫 How to reach me **vijeshsshetty@gmail.com**
 
