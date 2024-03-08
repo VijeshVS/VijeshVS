@@ -7,7 +7,7 @@
 
 
 
-- 🌱 MERN Stack Developer (Beginner)
+- 🌱 MERN Stack Developer
 
 - 📫 How to reach me **vijeshsshetty@gmail.com**
 
@@ -87,10 +87,18 @@
       </a>
       <br>NodeJS
     </td>
-    
- 
-    
 </table>
+
+<br/>
+<div align="center">
+  
+  
+  ## Leetcode Stats
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/VijeshVS?theme=nord&font=Grandstander&ext=heatmap)
+  
+</div>
+<br/>
 
 ## Connect with Me 🤝🏻
 <div align="center">
@@ -111,6 +119,7 @@
 </a>  
 </div>  
   
+
 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijeshvs&show_icons=true&locale=en&layout=compact" alt="vijeshvs" /></p>
