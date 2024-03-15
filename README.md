@@ -15,79 +15,8 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-     <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <br/>HTML5
-   </td>
-       <td align="center" width="96">
-     <a href="#" target="_blank">
-      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="html5" width="40" height="40"/> 
-    </a>
-    <br/>Java
-   </td>
-   <td align="center" width="96">
-    <a href="#" target="_blank"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <br/> CSS3
-   </td>
-    
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>C++
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://assets.cdn.prod.twilio.com/original_images/flask-oauth.png" width="54" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-      <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Android Studio
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>JS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>NodeJS
-    </td>
-</table>
+### Languages and Technologies
+![](https://skillicons.dev/icons?i=androidstudio,react,html,css,androidstudio,react,express,javascript,cpp,tailwind,java,bootstrap,nodejs,flask)
 
 <br/>
 <div align="center">
