@@ -16,7 +16,7 @@
 
 
 ### Languages and Technologies
-![](https://skillicons.dev/icons?i=androidstudio,react,html,css,androidstudio,react,express,javascript,cpp,tailwind,java,bootstrap,nodejs,flask,typescript)
+![](https://skillicons.dev/icons?i=androidstudio,react,html,css,androidstudio,react,express,javascript,cpp,tailwind,java,bootstrap,flask,typescript,nextjs)
 
 <br/>
 <div align="center">
