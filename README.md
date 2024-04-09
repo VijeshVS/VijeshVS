@@ -22,9 +22,10 @@
 <div align="center">
   
   
-  ## Leetcode Stats
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/VijeshVS?theme=nord&font=Grandstander&ext=heatmap)
+
+  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=princeSlayer)
   
 </div>
 <br/>
