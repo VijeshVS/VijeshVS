@@ -7,8 +7,7 @@
 
 
 
-- 🌱 MERN Stack Developer
-
+- 💻 Full Stack Web Developer
 - 📫 How to reach me **vijeshsshetty@gmail.com**
 
 <br/>
