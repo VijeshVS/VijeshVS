@@ -18,15 +18,7 @@
 ![](https://skillicons.dev/icons?i=androidstudio,react,html,css,androidstudio,react,express,javascript,cpp,tailwind,java,bootstrap,flask,typescript,nextjs)
 
 <br/>
-<div align="center">
-  
-  
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/VijeshVS?theme=nord&font=Grandstander&ext=heatmap)
-
-  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=princeSlayer)
-  
-</div>
 <br/>
 
 ## Connect with Me 🤝🏻
@@ -37,7 +29,7 @@
 <a href="https://twitter.com/vijeshsshetty" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/vijesh-shetty-ab484128a" target="_blank">
+<a href="https://www.linkedin.com/in/vijeshsshetty" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UCHSvFoyBeX_qd9PCGp2YVkg" target="_blank">
@@ -51,11 +43,23 @@
 
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijeshvs&show_icons=true&locale=en&layout=compact" alt="vijeshvs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijeshvs&show_icons=true&locale=en" alt="vijeshvs" /></p>
+##                        GitHub Stats 📈:
+<p align="center">
+  <a href="https://github.com/Akhilesh-max">
+    <img title="GitHub Stats" alt="Vijesh's streak" src="https://streak-stats.demolab.com/?user=vijeshvs&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  </a>
+</p>
 
-
+<p align="center">
+  <a href="https://github.com/vijeshvs">
+    <img alt="VijeshVS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vijeshvs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
+  </a>
+  <a href="https://github.com/vijeshvs">
+    <img alt="VijeshVS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeshvs&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
+  </a>
+  <br/>
+</p>
 
 <br/>
 
@@ -63,3 +67,5 @@
 
 <br/>
 
+<h3 align="center">Visitor's count</h3>
+<p align="center"><img src="https://profile-counter.glitch.me/{vijeshvs}/count.svg/" alt="VijeshVS Visitor's count" /></p>
