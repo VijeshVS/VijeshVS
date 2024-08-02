@@ -46,7 +46,7 @@
 
 ##                        GitHub Stats 📈:
 <p align="center">
-  <a href="https://github.com/Akhilesh-max">
+  <a href="https://github.com/vijeshvs">
     <img title="GitHub Stats" alt="Vijesh's streak" src="https://streak-stats.demolab.com/?user=vijeshvs&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
   </a>
 </p>
