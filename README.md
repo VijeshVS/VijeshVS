@@ -17,7 +17,7 @@
 
 ## Languages and Technologies 🚀
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,prisma,html,css,androidstudio,react,express,javascript,cpp,tailwind,java,bootstrap,flask,typescript,nextjs" />
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,firebase,androidstudio,react,nextjs,express,flask,cpp,typescript,java,py,redis,kafka" />
 </div>
 
 
@@ -31,7 +31,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/vijeshsshetty" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/X-%2324292e.svg?&style=for-the-badge&logo=x&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/vijeshsshetty" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -42,8 +42,13 @@
 <a href="mailto:vijesh@vshetty.dev" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>  
+<a href="https://leetcode.com/VijeshVS" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=yellow alt=github style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.geeksforgeeks.org/user/vijeshst3zc/" target="_blank">
+<img src=https://img.shields.io/badge/GFG-%23123.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=yellow alt=github style="margin-bottom: 5px;" />
+</a>
 </div>  
-  
 
 
 <br/>
