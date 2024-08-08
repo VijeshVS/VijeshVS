@@ -1,8 +1,9 @@
 
 
-  <h1 align="center">Hi 👋, I'm Vijesh</h1>
-<h3 align="center">A Student</h3>
-   
+<h1 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=31E2F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vijesh+Shetty;A+Full+Stack+Developer)](https://git.io/typing-svg)
+</h1>
    <p align='center'> <img src="https://user-images.githubusercontent.com/65854432/131634214-91274d8f-4f2f-4a91-bee8-276f5c3069eb.gif"> </p>
 
 
@@ -14,8 +15,11 @@
 
 
 
-### Languages and Technologies
-![](https://skillicons.dev/icons?i=androidstudio,react,html,css,androidstudio,react,express,javascript,cpp,tailwind,java,bootstrap,flask,typescript,nextjs)
+## Languages and Technologies 🚀
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,html,css,androidstudio,react,express,javascript,cpp,tailwind,java,bootstrap,flask,typescript,nextjs" />
+</div>
+
 
 <br/>
 
@@ -44,24 +48,19 @@
 
 <br/>
 
-##                        GitHub Stats 📈:
-<p align="center">
-  <a href="https://github.com/vijeshvs">
-    <img title="GitHub Stats" alt="Vijesh's streak" src="https://streak-stats.demolab.com/?user=vijeshvs&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  </a>
-</p>
+## GitHub Stats 📈:
 
+<div align="center">
 <p align="center">
-  <a href="https://github.com/vijeshvs">
-    <img alt="VijeshVS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vijeshvs&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="150px"/>
-  </a>
-  <a href="https://github.com/vijeshvs">
-    <img alt="VijeshVS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeshvs&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
-  </a>
-  <br/>
-</p>
 
+![](https://github-readme-stats.vercel.app/api?username=vijeshvs&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vijeshvs&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijeshvs&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</p>
+</div>
 <br/>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vijeshvs&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
