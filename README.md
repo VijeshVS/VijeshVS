@@ -63,13 +63,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijeshvs&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </p>
-</div>
-<br/>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vijeshvs&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-<h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{vijeshvs}/count.svg/" alt="VijeshVS Visitor's count" /></p>
+</div
