@@ -63,4 +63,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijeshvs&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </p>
-</div
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vijeshvs&theme=default&no-frame=false&no-bg=true&margin-w=4)
