@@ -17,7 +17,7 @@
 
 ## Languages and Technologies 🚀
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,firebase,androidstudio,react,nextjs,express,flask,cpp,typescript,java,py,redis,kafka" />
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,firebase,androidstudio,react,nextjs,express,flask,cpp,typescript,java,py,redis,rabbitmq" />
 </div>
 
 
