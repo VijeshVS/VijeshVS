@@ -22,7 +22,7 @@
 - 🏥 **[Vitalis](https://github.com/VijeshVS/Vitalis)** - developed a decentralized healthcare platform
 - 🩺 **[AyuConnect(🏆1stPlace)](https://github.com/vigneshshettyin/ayuconnect)** - developed a llm-assisted platform to help doctors diagnose large no of patients in short time
 - 🚖 **[Great Bangalore Hackathon(Finalist)](https://github.com/VijeshVS/Hackoholics-The-Great-Bangalore-Hackathon)** - developed a platform to address the issue of supply-demand problem and ride denials
-- 🏥 **[Smart-Match(Finalist)](https://github.com/VijeshVS/smart-match)** - developed an unique platform for hiring process
+- 📍 **[Smart-Match(Finalist)](https://github.com/VijeshVS/smart-match)** - developed an unique platform for hiring process
 
 ## problem solving
 
