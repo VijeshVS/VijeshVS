@@ -1,21 +1,14 @@
 # Hi, I'm Vijesh Shetty 👋
 
-I'm currently pursuing Information Science and Engineering at RVCE Bangalore. I'm proficient in full stack development and fascinated by how systems work at high scale. I'm also interested in GenAI and agentic AI technologies.
+📍 **Bangalore, India**
 
-## My Best Projects 🚀
+I'm pursuing Information Science and Engineering at RVCE. I build full-stack apps. I am fascinated about how systems work at scale.
 
-### [EatMyURL](https://github.com/vigneshshettyin/EatMyURL)
-Highly scalable URL shortener website, deployed live at [eurl.dev](https://eurl.dev)
+## Current Projects
 
-### [LocalHire](https://github.com/VijeshVS/LocalHire)
-Cross-platform Android application for local job listings. Features autonomous multi-agent systems using CrewAI for worker discovery and an in-progress voice agent
-
-### [inPass](https://github.com/VijeshVS/InPass)
-Built a robust event/pass management system for 8th Mile 2025
+- 🔗 **[EatMyURL](https://github.com/vigneshshettyin/EatMyURL)** - url shortener with lightning fast redirects (live: https://eurl.dev)
+- 🧭 **[LocalHire](https://github.com/VijeshVS/LocalHire)** - cross-platform mobile app for local job listing
 
 ## Problem Solving 💡
 
-I spend time improving my problem-solving skills:
-
-- **LeetCode**: [vijeshvs](https://leetcode.com/u/vijeshvs/)
-- **Codeforces**: [imjivesh](https://codeforces.com/profile/imjivesh) (not active)
+- **LeetCode**: https://leetcode.com/u/vijeshvs/
