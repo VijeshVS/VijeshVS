@@ -1,6 +1,6 @@
 # Hi, I'm Vijesh Shetty 👋
 
-I'm currently pursuing Information Science and Engineering at RVCE Bangalore. I'm proficient in full stack development and fascinated about how systems work at high scale. I'm also interested in GenAI and agentic AI technologies.
+I'm currently pursuing Information Science and Engineering at RVCE Bangalore. I'm proficient in full stack development and fascinated by how systems work at high scale. I'm also interested in GenAI and agentic AI technologies.
 
 ## My Best Projects 🚀
 
@@ -8,7 +8,7 @@ I'm currently pursuing Information Science and Engineering at RVCE Bangalore. I'
 Highly scalable URL shortener website, deployed live at [eurl.dev](https://eurl.dev)
 
 ### [LocalHire](https://github.com/VijeshVS/LocalHire)
-Cross-platform Android application we built to address local job listing. Developed autonomous multi-agent systems using CrewAI for worker discovery and voice agent (currently in progress)
+Cross-platform Android application for local job listings. Features autonomous multi-agent systems using CrewAI for worker discovery and an in-progress voice agent
 
 ### [inPass](https://github.com/VijeshVS/InPass)
 Built a robust event/pass management system for 8th Mile 2025
