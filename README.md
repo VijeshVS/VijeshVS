@@ -17,7 +17,7 @@
 ## my projects
 - 🔗 **[EatMyURL](https://github.com/vigneshshettyin/EatMyURL)** - url shortener with lightning fast redirects (live: https://eurl.dev)
 - 🧭 **[LocalHire](https://github.com/VijeshVS/LocalHire)** - cross-platform mobile app for local job listing with multi-agentic workflows for fast hires and voice agent
-- 🧭 **[JobPilot](https://github.com/VijeshVS/JobPilot)** - cross-platform mobile app for local job listing with multi-agentic workflows for fast hires and voice agent
+- 💼 **[JobPilot](https://github.com/VijeshVS/JobPilot)** - hiring at the speed of thought
 
 ## hackathons
 - 🏥 **[Vitalis](https://github.com/VijeshVS/Vitalis)** - developed a decentralized healthcare platform
@@ -27,4 +27,4 @@
 
 ## problem solving
 
-- 💻 **[Leetcode](https://leetcode.com/u/vijeshvs/)** - currently **Knight** with max rating 1891
+- 💻 **[Leetcode](https://leetcode.com/u/vijeshvs/)** - currently **Knight** with max rating **1891**
